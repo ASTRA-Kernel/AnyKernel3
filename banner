@@ -1,21 +1,18 @@
-BBBB   RRRR   U   U  H   H      |
-B   B  R   R  U   U  H   H      |
-BBBB   RRRR   U   U  HHHHH      |
-B   B  R R    U   U  H   H      |
-BBBB   R  RR   UUU   H   H      *
-   
-    
-- ASTRAKernel (ASTRA-KSUN)
-- support (android): 15-16
-- for users with device bangkk. SHANKAT
+    _    ____ _____ ____      _    
+   / \  / ___|_   _|  _ \    / \   
+  / _ \ \___ \ | | | |_) |  / _ \  
+ / ___ \ ___) || | |  _ <  / ___ \ 
+/_/   \_\____/ |_| |_| \_\/_/   \_\
+                                   
+- ASTRA_Kernel (ASTRA-KSUN)
+- support (android): 16-17
+- device: bangkk (Moto G84)
 ----------------
 - Features:
     - susfs
     - ksu-next/ksu
- 
+
 -----------------------------------------------------------------
-- CREATOR:      t.me/ARYANGODxDoff
-- MANAGER:      t.me/uvaers
-- BASE TREES:   t.me/whyakari (Pro Chacha) wen chachi coming?
+- By:      t.me/aryangodxdoff
+- BASE TREES:   github.com/LineageOS/android_kernel_motorola_sm6375
 -----------------------------------------------------------------
-   
